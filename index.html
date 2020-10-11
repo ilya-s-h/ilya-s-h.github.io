@@ -1,47 +1,73 @@
-<html>
-<head>
-  <title>Портфолио по веб-проектированию</title>
-  <link href="style.css" type="text/css"rel="stylesheet" />
-</head>
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Портфолио Junior верстальщика</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
+  </head>
+
   <body>
-    <div>
-      <h1 id="top">Портфолио по веб-проектированию</h1>
-      <h4><i>Автор: студент <abbr title="Институт Информационных Технологий и Технологического Образования">ИИТиТО</abbr> <abbr title="Российский Государственный Педагогический Университет">РГПУ</abbr> им. А.И. Герцена направления <abbr title="Информатика и Вычислительная Техника">ИВТ</abbr> по профилю «Технологии разработки программного обеспечения» Исайчев Данила Олегович</i></h4>
+    <header class="page-header">
+      <div class="container">
+      Контакты
+      <a class="header-email" href="mailto:sheremjevadi@gmail.com"> sheremjevadi@gmail.com</a>
+      <a class="header-phone" href="tel:+79181913193"> +7 918 191 31 93</a>
     </div>
-    <div>
-      <h4>Список заданий</h4>
-      <ul>
-        <li><a href="#XMLT-001">Задание XMLT-001</a></li>
-        <li><a href="#json_intro">Задание json_intro</a></li>
-        <li>...</li>
-      </ul>
+    </header>
+
+    <section class="hero-image">
+      <div class="container">
+      <h1 class="heading">Диана Шеремьёва</h1>
+      <p>Junior верстальщик</p>
     </div>
-    <div>
-      <h4 id="XMLT-001">Задание XMLT-001</h4>
-      <ul>
-        <li>Часть 1
-          <ul>
-            <li><a href="XMLT-001/Part1/Task1.dtd" target="_blank">DTD <i>(Внимание! При нажатии на ссылку начнётся скачивани файла)</i></a></li>
-            <li><a href="XMLT-001/Part1/Task1.xml" target="_blank">XML</a></li>
-          </ul>
-        </li>
-        <li>Часть 2
-          <ul>
-            <li><a href="XMLT-001/Part2/Task2.dtd" target="_blank">DTD <i>(Внимание! При нажатии на ссылку начнётся скачивани файла)</i></a></li>
-            <li><a href="XMLT-001/Part2/Task2.xml" target="_blank">XML</a></li>
-          </ul>
-        </li>
-        <li>Часть 3</li>
-      </ul>
+    </section>
+
+    <section class="intro">
+      <div class="container">
+      <h2 class="subheading">Давайте познакомимся</h2>
+      <figure>
+        <img class="user-image" src="files/user.jpg" width="848" alt="Фотография начинающего верстальщика">
+      </figure>
+      <div>
+      <h3>Пара слов о себе</h3>
+      <p>Окончила мехмат со стойким убеждением, что буду в этой жизни заниматься чем угодно, но только не кодить, а потом наткнулась на htmlacademy и все изменилось</p>
+      </div>
+      <div>
+      <h3>Чем могу быть полезна</h3>
+      <p>
+        Хорошо знакома с IT сферой. Знаю чем фронт отличается от бэка, что такое пулл-реквест и репозиторий.
+        <br>Владею английским языком в совершенстве.
+      </p>
+      </div>
+      <div class="skills">
+        <h3>Мои навыки</h3>
+        <dl class="skills-list">
+          <dt class="skill-html">HTML</dt>
+          <dd class="level"><div style="width: 60%;">60%</div></dd>
+          <dt class="skill-css">CSS</dt>
+          <dd class="level"><div style="width: 40%;">40%</div></dd>
+        </dl>
+      </div>
     </div>
-    <div>
-      <h4 id="json_intro">Задание json_intro</h4>
-      <ul>
-        <li><a href="json_intro/Part1/json_intro.json" target="_blank">Часть 1 json_intro</a></li>
-        <li><a href="json_intro/Part2/json_schema.json" target="_blank">Часть 2 json_schema</a></li>
-        <li><a href="https://www.jsonschemavalidator.net/s/dw2KWKb0" target="_blank">Валидатор</a></li>
-        </li>
-      </ul>
+    </section>
+
+    <section class="portfolio">
+      <div class="container">
+      <h2 class="subheading">Мои работы</h2>
+      <figure class="project-image">
+        <img src="files/first-site.jpg" width="928" height="536" alt="Cайт инструктора Василия">
+      <h3>Сайт инструктора Василия</h3>
+      <a class="button" href="source/project 1/index.html">Открыть страницу</a>
+      </figure>
     </div>
+    </section>
+
+    <footer class="page-footer">
+      <div class="container">
+        <a class="footer-email" href="mailto:sheremjevadi@gmail.com">sheremjevadi@gmail.com</a>
+      <a class="footer-phone" href="tel:+79181913193">+7 918 191 31 93</a>
+    </div>
+    </footer>
   </body>
 </html>
