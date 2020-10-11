@@ -1,0 +1,18 @@
+body {background-color: rgb(253,245,220);}
+a:link {color: rgb(118,114,158);}
+a:visited {color: rgb(57,54,77);}
+a:active {color: rgb(66,64,89);}
+a:hover {color: rgb(80,77,107);}
+div {
+  font-family: Arial, sans-serif;
+  color: rgb(61,59,53);
+  line-height: 1.5em;
+  text-align: justify;
+  width: 60%;
+  min-width: 500px;
+  border: 2px none rgba(61,59,53);
+  border-radius: 10px;
+  padding: 15px 25px 15px 25px;
+  margin: 10px auto 10px auto;
+  box-shadow: 5px 5px 5px 5px #777777;
+  background-color: rgb(255,255,255);}
