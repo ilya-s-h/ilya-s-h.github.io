@@ -1,11 +1,11 @@
-body {background-color: rgb(253,245,220);}
-a:link {color: rgb(118,114,158);}
-a:visited {color: rgb(57,54,77);}
-a:active {color: rgb(66,64,89);}
-a:hover {color: rgb(80,77,107);}
+body {background-color: rgb(235,224,1);}
+a:link {color: rgb(89,149,212);}
+a:visited {color: rgb(111,205,235);}
+a:active {color: rgb(103,135,246);}
+a:hover {color: rgb(89,212,210);}
 div {
-  font-family: Arial, sans-serif;
-  color: rgb(61,59,53);
+  font-family: times new roman, sans-serif;
+  color: rgb(0,0,0);
   line-height: 1.5em;
   text-align: justify;
   width: 60%;
