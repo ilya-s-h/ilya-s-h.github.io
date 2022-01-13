@@ -8,7 +8,9 @@ jobs:
   steps:
     - name: Checkout code
       uses: actions/checkout@v2
-        
+      
+    - name: Super Linter  
+      uses: docker://github/super-linter:v2.1.0
       env:
          DEFAULT_BRANCH: main
          GITHUB_TOKEN: ${{  secrets.GITHUB_TOKEN }}
