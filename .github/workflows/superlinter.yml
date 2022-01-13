@@ -1,16 +1,17 @@
-name: super-linter
-
-on: push
+name: super-linter # Название
+# Определение триггера для запуска CI/CD
+on: push # Триггер на push любого коммита в ветку
+# Задачи к выполнению
 jobs:
- super-lint:
-  name: lint code base
-  runs-on: ubuntu-latest
-  steps:
+ super-lint: # задача
+  name: lint code base # Название
+  runs-on: ubuntu-latest # Сборка окружения ubuntu-latest
+  steps: # Шаги задачи
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v2 # Переключение на текущую ветку
       
     - name: Super Linter  
-      uses: docker://github/super-linter:v2.1.0
+      uses: docker://github/super-linter:v2.1.0 # Вызов Super Linter
       env:
          DEFAULT_BRANCH: main
          GITHUB_TOKEN: ${{  secrets.GITHUB_TOKEN }}
