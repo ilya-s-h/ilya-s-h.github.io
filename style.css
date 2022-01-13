@@ -4,7 +4,7 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
+  color: #222;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
@@ -123,7 +123,7 @@ body {
   padding: 0;
   height: 14px;
   font-size: 0;
-  background-color: #ffffff;
+  background-color: #fff;
   border: 1px solid #86c3fa;
   border-radius: 8px;
 }
@@ -166,7 +166,7 @@ body {
   text-transform: uppercase;
   border-radius: 4px;
   background-color: #288be6;
-  color: #ffffff;
+  color: #fff;
 }
 
 .page-footer {
@@ -176,7 +176,7 @@ body {
 
 .page-footer a {
   margin-left: 56px;
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
