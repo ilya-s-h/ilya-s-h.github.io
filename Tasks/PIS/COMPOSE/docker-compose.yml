@@ -1,0 +1,40 @@
+version: '3'
+services: 
+  app:
+   image: "node:12-alpine"
+   working_dir: /home/node/app
+   environment:
+     - NODE_ENV=production
+     - PORT=5432
+     - HELLO_MESSAGE="Hello from Node"
+   volumes:
+     - ./:/home/node/app
+   ports:
+     - 80:5432
+   command: "npm start"
+
+  app2:
+   image: "node:12-alpine"
+   working_dir: /home/node/app
+   environment:
+     - NODE_ENV=production
+     - PORT=1234
+     - HELLO_MESSAGE="Another one Node App instance"
+   volumes:
+     - ./:/home/node/app
+   ports:
+     - 8080:1234
+   command: "npm start"
+
+  app3:
+   image: "node:12-alpine"
+   working_dir: /home/node/app
+   environment:
+     - NODE_ENV=production
+     - PORT=9876
+     - HELLO_MESSAGE="The last one Node app"
+   volumes:
+     - ./:/home/node/app
+   ports:
+     - 8181:9876
+   command: "npm start"     
