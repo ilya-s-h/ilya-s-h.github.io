@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title>Портфолио Шумякина И.С.</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
+  </head>
+
+  <body> 
+   
+    <header class="page-header">
+      <div class="container">
+      Контакты
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+      <a class="header-email" href="mailto:fred3110@mail.ru"> fred3110@mail.ru</a>
+      <a class="header-phone" href="tel:+79112742088"> +7 911 274 20 88</a>
+    </div>
+    </header>
+
+    <section class="hero-image">
+      <div class="container">
+      <h1 class="heading">Шумякин Илья</h1>
+      <p>Студент РГПУ им.Герцена факультета ИИТиТО ИВТ(2)/19 </p>
+    </div>
+    </section>
+
+    <section class="intro">
+      <div class="container">
+      <h2 class="subheading">Все портфолио</h2>
+      <div>
+      <h3>Оглавление</h3>
+      <ul>
+        <li><a href="#Web_3_4">Дисциплина "Серверные Веб-Технологии (3-4 Семестр)"</a></li>
+        <li><a href="#lektor_4sem">Дисциплина "Компьютерный практикум (4 Семестр)"</a></li>
+        <li><a href="#Algerbra_4sem">Дисциплина "Основы компьютерной алгебры (4 Семестр)"</a></li>
+      </ul>
+      </div>
+            
+    <section class="portfolio">
+      <div class="container">
+        <h2 class="subheading" id="Web_3_4" >Серверные Веб-Технологии</h2>
+        <a class="button" href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Перейти в портфолио</a>
+      </div>
+    </section>
+
+    <section class="portfolio">
+      <div class="container">
+        <h2 class="subheading" id="lektor_4sem" >Компьютерный практикум</h2>
+        <a class="button" href="https://ilya-s-h.github.io/lektor_4sem/">Перейти в портфолио</a>
+      </div>
+    </section>     
+        
+    <section class="portfolio">
+      <div class="container">
+        <h2 class="subheading" id="Algerbra_4sem" >Основы компьютерной алгебры</h2>
+        <a class="button" href="https://ilya-s-h.github.io/Comp_Algerbra_4sem/">Перейти в портфолио</a>
+      </div>
+    </section>
+        
+     <section class="portfolio">
+      <div class="container">
+        <h2 class="subheading" id="Algerbra_4sem" >Тестовая страница нового образца на Bootstrap</h2>
+        <a class="button" href="https://ilya-s-h.github.io/testhomepage/">Перейти</a>
+      </div>
+    </section>   
+        
+        
+    </section>
+
+    <footer class="page-footer">
+      <div class="container">
+        © Помощь в построении сайта получена с портала HTML Academy
+        <a class="footer-email" href="mailto:fred3110@mail.ru">fred3110@mail.ru</a>
+      <a class="footer-phone" href="tel:+79112742088">+7 911 274 20 88</a>
+    </div>
+    </footer>
+  </body>
+</html>
+  
