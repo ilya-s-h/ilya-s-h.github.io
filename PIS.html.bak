@@ -52,51 +52,31 @@
       </p>
         
       <div>
-      <h2 class="subheading">Семестр 3</h2>
+      <h2 class="subheading">Семестр 5</h2>
       </div>
         
         <p> <br> 
       </p>
         
       <div>
-      <h3 id="XMLT-001">Лабораторная работа 1 (XMLT-001) (ИСР 1)</h3>
+      <h3 id="1">Получение сертификата Let's encrypt для Nginx (без Docker))</h3>
         <h4>Постановка задачи:</h4>
-        <p> Создайте «наименьший» и «строжайший» DTD по определённому файлу.
+        <p> Запишите скринкаст, демонстрирующий процесс получения  SSL-сертификата для вашего домена.
       </p>
-      <ul>
-        <li>Часть 1
-          <ul>
-            <li><a href="Tasks/XMLT-001/file.dtd" target="_blank">Ссылка на скачивание файла DTD </a></li>
-            <li><a href="Tasks/XMLT-001/file.xml" target="_blank">XML</a></li>
-          </ul>
-        </li>
-      </ul>
+        <p><a href="Tasks/PIS/1.mp4" target="_blank">Посмотреть скринкаст на github</a></p>
       </div>
         
        <div>
-      <h3 id="json_intro">Лабораторная работа 2 (json_intro) (ИСР 2)</h3>
+      <h3 id="2">Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложения</h3>
         <h4> Постановка задачи: </h4>
          <p>
-        Часть I: Разработайте JSON-структуру для человекочитаемого представления того же документа, DTD которого разрабатывается в задании по DTD.
-        <br> Часть II: Возьмите документ, созданный в первой части и разработайте или сгенерируйте схему для него с дальнейшей валидацией.
+        Запишите видео отчет о запуске контейнера: 
+        <br> начало: чистая, установленная ОС в облаке
+		<br> финал: демонстрация работы приложения в браузере
       </p>
-      <ul>
-        <li>Часть 1 (JSON-структура)
-          <ul>
-            <li><a href="Tasks/json_intro/Part1.json" target="_blank">Валидный json файл</a></li>
-          </ul>
-        </li>
-        <li>Часть 2 (Сгенерированная онлайн Schema на сайте <a href="https://www.jsonschema.net/home" target="_blank">jsonschema.net</a>)
-          <ul>
-            <li><a href="Tasks/json_intro/Part2.json" target="_blank">Schema для json файла</a></li>
-          </ul>
-        </li>
-         <li>Ссылка на результат валидации (json + Schema)
-          <ul>
-            <li><a href="https://www.jsonschemavalidator.net/s/5jQJ5Qf4" target="_blank">Результат валидации</a></li>
-          </ul>
-        </li>
-      </ul>
+        <p><a href="Tasks/PIS/2.mp4" target="_blank">Посмотреть скринкаст на github</a>
+		<br> <a href="Tasks/PIS/2.pdf" target="_blank">Ознакомиться с pdf версией на github</a>
+		</p>
       </div>
       
       <div>
