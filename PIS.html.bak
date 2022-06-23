@@ -92,7 +92,7 @@
       </p>
         <p><a href="https://hub.docker.com/repository/docker/fred3110/node" target="_blank">Ссылка на образ в Docker Hub</a>
 		<br> <a href="Tasks/PIS/2.2.pdf" target="_blank">Ознакомиться с pdf версией на github</a>
-        <p><a href="Tasks/PIS/2.mp4" target="_blank">Посмотреть скринкаст на github</a>
+        <br> <a href="Tasks/PIS/2.mp4" target="_blank">Посмотреть скринкаст на github</a>
 		</p>
       </div>
       
@@ -115,7 +115,7 @@
       </p>
         <p><a href="Tasks/PIS/3.mp4" target="_blank">Посмотреть скринкаст на github</a>
 		<br> <a href="Tasks/PIS/3.pdf" target="_blank">Ознакомиться с pdf версией на github</a>
-		<br> <a href="Tasks/PIS/COMPOSE" target="_blank">Ссылка на папку COMPOSE, созданную входе лабораторной работы</a>
+		<br> <a href="https://github.com/ilya-s-h/ilya-s-h.github.io/tree/main/Tasks/PIS/COMPOSE" target="_blank">Ссылка на папку COMPOSE, созданную входе лабораторной работы</a>
 		</p>
       </div>
 	  
@@ -177,7 +177,7 @@
       <h3 id="7">Реализация дополнительной стратегии oAuth 2.0</h3>
         <h4> Постановка задачи: </h4>
          <p>
-<br>На основе кода, разработанного в ходе практического занятия, создайте приложение с двумя стратегиями авторизации. 
+На основе кода, разработанного в ходе практического занятия, создайте приложение с двумя стратегиями авторизации. 
 
 <br>1) Приведите стратегию Яндекса к работоспособному состоянию (зарегистрируйте своё приложение, получите secret's, модифицируйте приложение)
 
@@ -191,8 +191,8 @@
 <br>- Опубликуйте ссылку на репозиторий и видео в задании Moodle
 <br>Приложите файл и ссылку на файл в Github
       </p>
-        <p><a href="Tasks/PIS/2.mp4" target="_blank">Посмотреть скринкаст на github</a>
-		<br> <a href="Tasks/PIS/2.pdf" target="_blank">Ознакомиться с pdf версией на github</a>
+        <p><a href="Tasks/PIS/7.mp4" target="_blank">Посмотреть скринкаст на github</a>
+		<br> <a href="https://github.com/ilya-s-h/ilya-s-h.github.io/tree/main/Tasks/PIS/VisualStudioCode" target="_blank">Ссылка на папку с файлами, созданными входе лабораторной работы</a>
 		</p>
       </div>
         
