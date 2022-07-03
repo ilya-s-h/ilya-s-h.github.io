@@ -1,0 +1,27 @@
+[
+    {
+        "login": "kate123",
+        "email": "kate@example.com",
+        "active": true
+    },
+    {
+        "login": "newuser",
+        "email": "user@example.com",
+        "active": true
+    },
+    {
+        "login": "alex",
+        "email": "alex@mailserver.org",
+        "active": true
+    },
+    {
+        "login": "john",
+        "email": "john@simplymail.dev",
+        "active": true
+    },
+    {
+        "login": "user",
+        "email": "maria@mailserver.org",
+        "active": true
+    }
+]
