@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2020-01-19T11:33:29 -03:00",
+    "temperature": 25,
+    "latitude": 27.668908,
+    "longitude": 152.868523
+  },
+  {
+    "date": "2021-02-20T09:42:04 -03:00",
+    "temperature": 18,
+    "latitude": 74.512952,
+    "longitude": -102.861607
+  },
+  {
+    "date": "2015-11-09T05:55:47 -03:00",
+    "temperature": 19,
+    "latitude": 87.533802,
+    "longitude": 178.206273
+  },
+  {
+    "date": "2021-04-27T01:19:59 -03:00",
+    "temperature": 23,
+    "latitude": -79.582803,
+    "longitude": -30.959469
+  },
+  {
+    "date": "2019-02-18T12:53:33 -03:00",
+    "temperature": 22,
+    "latitude": -54.193456,
+    "longitude": -103.188086
+  }
+]
