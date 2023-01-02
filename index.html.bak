@@ -35,10 +35,8 @@
         <li><a href="#Web_3_4">Дисциплина "Серверные Веб-Технологии (3-4 Семестр)"</a></li>
         <li><a href="#lektor_4sem">Дисциплина "Компьютерный практикум (4 Семестр)"</a></li>
         <li><a href="#Algerbra_4sem">Дисциплина "Основы компьютерной алгебры (4 Семестр)"</a></li>
-		<li><a href="#PIS_6sem">Дисциплина "Прикладные информационные технологии (5-6 Семестр)"</a></li>
-        <li><a href="#Programming">Дисциплина "Программирование (3-6 Семестр)"</a></li>
-        <li><a href="#IEASC">Дисциплина "Информационные средства и технологии инженерных и научных расчетов (7 Семестр)"</a></li>
-	
+		<li><a href="#PIS_6sem">Дисциплина "Прикладные информационные технологии (6 Семестр)"</a></li>
+    <li><a href="#Programming">Дисциплина "Программирование (3-6 Семестр)"</a></li>
       </ul>
       </div>
             
@@ -48,7 +46,6 @@
         <a class="button" href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Перейти в портфолио</a>
       </div>
     </section>
-
 
     <section class="portfolio">
       <div class="container">
@@ -77,13 +74,6 @@
         <a class="button" href="https://ilya-s-h.github.io/Programming.html">Перейти в портфолио</a>
       </div>
     </section>
-	
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="IEASC" >Информационные средства и технологии инженерных и научных расчетов</h2>
-        <a class="button" href="https://ilya-s-h.github.io/IEASC_7SEM.html">Перейти в портфолио</a>
-      </div>
-    </section>	
 
      <section class="portfolio">
       <div class="container">
