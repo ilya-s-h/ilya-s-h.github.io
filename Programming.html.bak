@@ -431,7 +431,7 @@
               <ul>
                 <a href="https://colab.research.google.com/drive/1UdPyLMUNLmAJSVvJcIApaOalUYaeshnL#scrollTo=5ARwqJcO1o1E" target="_blank">
                   Ссылка на выполненное задание на google colaboratory</a>
-                <p><a href="Tasks/Programming/7/LR/3/3.pdf" target="_blank">
+                <p><a href="Tasks/Programming/7/LR/3.pdf" target="_blank">
                   Ссылка на выполненное задание в github</a></p>
                 </ul>
               </div>
@@ -439,9 +439,9 @@
             <div>
               <h3>ЛР 4. Парсинг сайта herzen.spb.ru</h3>
               <ul>
-                <a href="https://colab.research.google.com/drive/1XBEGsosVGUZj5oCeN_MsTLJBuGSClfOc?usp=sharing" target="_blank">
+                <a href="https://colab.research.google.com/drive/1_yS68aEj99YR1_8diOraadmigz3wFJa6?usp=sharing" target="_blank">
                   Ссылка на выполненное задание на google colaboratory</a>
-                <p><a href="Tasks/Programming/7/LR/4/4.py" target="_blank">
+                <p><a href="Tasks/Programming/6/LR/2.py" target="_blank">
                   Ссылка на выполненное задание в github</a></p>
                 </ul>
               </div>
@@ -449,9 +449,9 @@
               <div>
                 <h3>ЛР 5. Решить задачу частеречной разметки</h3>
               <ul>
-                  <a href="https://colab.research.google.com/drive/19-ltDIMOic0QfxPjicLxmtZkYZZSohPP?usp=sharing" target="_blank">
+                  <a href="https://colab.research.google.com/drive/1DoiDBYPXtcPGECzN_AciKwSlf4IX5XeC?usp=sharing" target="_blank">
                     Ссылка на выполненное задание на google colaboratory</a>
-                  <p><a href="Tasks/Programming/7/LR/5/5.py" target="_blank">
+                  <p><a href="Tasks/Programming/6/LR/5.py" target="_blank">
                     Ссылка на выполненное задание в github</a></p>
                   </ul>
                 </div>
@@ -459,9 +459,9 @@
                 <div>
                   <h3>ЛР 6. Обработка текста на Python / NLP with Python</h3>
                 <ul>
-                    <a href="https://colab.research.google.com/drive/1h1NPTxgqiym9yVTi-El_9mkEQA_LF_0S?usp=sharing" target="_blank">
+                    <a href="https://colab.research.google.com/drive/15yUrolu28WT_6JO9vTiznlFNxirxnBSj?usp=sharing" target="_blank">
                       Ссылка на выполненное задание на google colaboratory</a>
-                    <p><a href="Tasks/Programming/7/LR/6/6.py" target="_blank">
+                    <p><a href="Tasks/Programming/6/LR/6.py" target="_blank">
                       Ссылка на выполненное задание в github</a></p>
                     </ul>
                   </div>
@@ -469,9 +469,9 @@
                 <div>
                   <h3>ЛР 7. Счетчик (Flask) в Docker</h3>
                 <ul>
-                    <a href="https://replit.com/@IlyaShumyakin/prog7-t3-lr7-2#simpleapp.py" target="_blank">
-                      Ссылка на выполненное задание на replit</a>
-                    <p><a href="Tasks/Programming/7/LR/7" target="_blank">
+                    <a href="https://colab.research.google.com/drive/15yUrolu28WT_6JO9vTiznlFNxirxnBSj?usp=sharing" target="_blank">
+                      Ссылка на выполненное задание на google colaboratory</a>
+                    <p><a href="Tasks/Programming/6/LR/6.py" target="_blank">
                       Ссылка на выполненное задание в github</a></p>
                     </ul>
                   </div>
@@ -479,9 +479,9 @@
                 <div>				  
                   <h3>ЛР 8. Работа с Docker Hub по средствам скринкаста</h3>
                 <ul>
-                    <a href="https://replit.com/@IlyaShumyakin/prog7-t3-lr8#app.py" target="_blank">
-                      Ссылка на выполненное задание на replit</a>
-                    <p><a href="Tasks/Programming/7/LR/8" target="_blank">
+                    <a href="https://colab.research.google.com/drive/15yUrolu28WT_6JO9vTiznlFNxirxnBSj?usp=sharing" target="_blank">
+                      Ссылка на выполненное задание на google colaboratory</a>
+                    <p><a href="Tasks/Programming/6/LR/6.py" target="_blank">
                       Ссылка на выполненное задание в github</a></p>
                     </ul>
                   </div>				  
@@ -489,7 +489,7 @@
                 <div>				  
                   <h3>Дополнительное задание - сравнение RISC and CISC архитектур</h3>
                 <ul>
-                    <p><a href="Tasks/Programming/7/LR/ADDLR.pdf" target="_blank">
+                    <p><a href="Tasks/Programming/6/LR/6.py" target="_blank">
                       Ссылка на выполненное задание в github</a></p>
                     </ul>
                   </div>
