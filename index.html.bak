@@ -32,9 +32,6 @@
       <div>
       <h3>Дисциплины с подробным портфолио</h3>
       <ul>
-        <li><a href="#Web_3_4">Дисциплина "Серверные Веб-Технологии (3-4 Семестр)"</a></li>
-        <li><a href="#lektor_4sem">Дисциплина "Компьютерный практикум (4 Семестр)"</a></li>
-        <li><a href="#Algerbra_4sem">Дисциплина "Основы компьютерной алгебры (4 Семестр)"</a></li>
 		<li><a href="#PIS_6sem">Дисциплина "Прикладные информационные технологии (5-6 Семестр)"</a></li>
         <li><a href="#Programming">Дисциплина "Программирование (3-7 Семестр)"</a></li>
         <li><a href="#IEASC">Дисциплина "Информационные средства и технологии инженерных и научных расчетов (7 Семестр)"</a></li>
@@ -42,6 +39,7 @@
       </ul>
       </div>
 	  
+	  <div>
       <h3>1 семестр</h3>
       <ul>
         <li><a href="#_">Безопасность жизнедеятельности</a></li>
@@ -59,6 +57,7 @@
       </ul>
       </div>	  
 	  
+	  <div>
       <h3>2 семестр</h3>
       <ul>
         <li><a href="#_">Алгоритмы и анализ сложности</a></li>
@@ -69,7 +68,7 @@
 		<li><a href="#_">Линейная алгебра и теория матриц </a></li>
 		<li><a href="#_">Математическая логика</a></li>
 		<li><a href="#_">Математический анализ</a></li>
-		<li><a href="#_">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
 		<li><a href="#_">Теория вероятности</a></li>
 		<li><a href="#_">Физика</a></li>
 		<li><a href="#_">Физкультура</a></li>
@@ -77,6 +76,7 @@
       </ul>
       </div>	  
 	  
+	  <div>
       <h3>3 семестр</h3>
       <ul>
         <li><a href="#_">Анализ данных</a></li>
@@ -85,12 +85,14 @@
 		<li><a href="#_">Иностранный язык (английский)</a></li>
 		<li><a href="#_">Интегралы и дифференциальные уравнения</a></li>
 		<li><a href="#_">ПРАКТИКА</a></li>
-		<li><a href="#_">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Серверные веб-технологии</a></li>
 		<li><a href="#_">Физика</a></li>
 		<li><a href="#_">Физкультура и спорт</a></li>
       </ul>
       </div>	  
 	  
+	  <div>
       <h3>4 семестр</h3>
       <ul>
         <li><a href="#_">Базы данных</a></li>
@@ -98,16 +100,17 @@
 		<li><a href="#_">Иностранный язык (английский)</a></li>
 		<li><a href="#_">Интегралы и дифференциальные уравнения</a></li>
 		<li><a href="#_">Информационные технологии в решении задач оптимизации</a></li>
-		<li><a href="#_">Компьютерный практикум</a></li>
+		<li><a href="https://ilya-s-h.github.io/lektor_4sem/">Компьютерный практикум</a></li>
 		<li><a href="#_">Операционные системы</a></li>
-		<li><a href="#_">Основы компьютерной алгебры</a></li>
-		<li><a href="#_">Программирование</a></li>
-		<li><a href="#_">Серверные веб-технологии</a></li>
+		<li><a href="https://ilya-s-h.github.io/Comp_Algerbra_4sem/">Основы компьютерной алгебры</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Серверные веб-технологии</a></li>
 		<li><a href="#_">Технологии компьютерного моделирования</a></li>
 		<li><a href="#_">Физкультура (факультативная)</a></li>
       </ul>
       </div>	  
 	  
+	  <div>
       <h3>5 семестр</h3>
       <ul>
         <li><a href="#_">IT-менеджмент</a></li>
@@ -117,8 +120,8 @@
 		<li><a href="#_">Начертательная геометрия</a></li>
 		<li><a href="#_">Основы бизнес-информатики</a></li>
 		<li><a href="#_">Практикум по письменному переводу профессионально-ориентированных текстов</a></li>
-		<li><a href="#_">Прикладные информационные системы</a></li>
-		<li><a href="#_">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/PIS.html">Прикладные информационные системы</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
 		<li><a href="#_">Сети и телекоммуникации</a></li>
 		<li><a href="#_">Техника и технологии представление и публикации информации</a></li>
 		<li><a href="#_">Управление программными проектами + курсовая работа</a></li>
@@ -126,6 +129,7 @@
       </ul>
       </div>	  
 	  
+	  <div>
       <h3>6 семестр</h3>
       <ul>
         <li><a href="#_">Визуализация данных и инфографика</a></li>
@@ -136,30 +140,32 @@
 		<li><a href="#_">Основы корпоративного электронного обучения</a></li>
 		<li><a href="#_">Основы электронного управления</a></li>
 		<li><a href="#_">ПРАКТИКА</a></li>
-		<li><a href="#_">Прикладные Информационные технологии</a></li>
-		<li><a href="#_">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/PIS.html">Прикладные Информационные технологии</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
 		<li><a href="#_">Физическая культура и спорт (элективная дисциплина)</a></li>
 		<li><a href="#_">Электроника</a></li>
 		<li><a href="#_">Электротехника</a></li>
       </ul>
       </div>	
 
+      <div>
       <h3>7 семестр</h3>
       <ul>
         <li><a href="#_">Инженерия знаний</a></li>
 		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Информационные средства и технологии инженерных и научных расчетов</a></li>
+		<li><a href="https://ilya-s-h.github.io/IEASC_7SEM.html">Информационные средства и технологии инженерных и научных расчетов</a></li>
 		<li><a href="#_">Лингвистические основы иноязычной коммуникации</a></li>
 		<li><a href="#_">Модуль Учебно-исследовательский. Производственная практика (научно-исследовательская работа)</a></li>
 		<li><a href="#_">Научно-исследовательский проект</a></li>
 		<li><a href="#_">Организация электронной образовательной среды + курсовая работа</a></li>
 		<li><a href="#_">ПРАКТИКА</a></li>
 		<li><a href="#_">Практикум по программированию</a></li>
-		<li><a href="#_">Программирование</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
 		<li><a href="#_">Учебно-технологический практикум</a></li>
       </ul>
       </div>
-
+	  
+	  <div>
       <h3>8 семестр</h3>
       <ul>
         <li><a href="#_">IT-рекрутмент</a></li>
@@ -176,53 +182,6 @@
       </ul>
       </div>
 
-
-
-	
-            
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="Web_3_4" >Серверные Веб-Технологии</h2>
-        <a class="button" href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Перейти в портфолио</a>
-      </div>
-    </section>
-
-
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="lektor_4sem" >Компьютерный практикум</h2>
-        <a class="button" href="https://ilya-s-h.github.io/lektor_4sem/">Перейти в портфолио</a>
-      </div>
-    </section>     
-        
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="Algerbra_4sem" >Основы компьютерной алгебры</h2>
-        <a class="button" href="https://ilya-s-h.github.io/Comp_Algerbra_4sem/">Перейти в портфолио</a>
-      </div>
-    </section>
-	
-     <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="PIS_6sem" >Прикладные информационные технологии</h2>
-        <a class="button" href="https://ilya-s-h.github.io/PIS.html">Перейти в портфолио</a>
-      </div>
-    </section> 
-
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="Programming" >Программирование</h2>
-        <a class="button" href="https://ilya-s-h.github.io/Programming.html">Перейти в портфолио</a>
-      </div>
-    </section>
-	
-    <section class="portfolio">
-      <div class="container">
-        <h2 class="subheading" id="IEASC" >Информационные средства и технологии инженерных и научных расчетов</h2>
-        <a class="button" href="https://ilya-s-h.github.io/IEASC_7SEM.html">Перейти в портфолио</a>
-      </div>
-    </section>	
-
      <section class="portfolio">
       <div class="container">
         <h2 class="subheading" id="none" >Тестовая страница нового образца на Bootstrap</h2>
@@ -234,7 +193,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        © Помощь в построении сайта получена с портала HTML Academy
+        © Помощь в построении сайта получена в ходе практики с портала HTML Academy
         <a class="footer-email" href="mailto:fred3110@mail.ru">fred3110@mail.ru</a>
       <a class="footer-phone" href="tel:+79112742088">+7 911 274 20 88</a>
     </div>
