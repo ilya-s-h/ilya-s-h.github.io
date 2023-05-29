@@ -21,7 +21,7 @@
 
     <section class="hero-image">
       <div class="container">
-      <h1 class="heading">Шумякин Илья</h1>
+      <h1 class="heading">Шумякин Илья Сергеевич</h1>
       <p>Студент РГПУ им.Герцена факультета ИИТиТО ИВТ(2)/19 </p>
     </div>
     </section>
@@ -29,15 +29,6 @@
     <section class="intro">
       <div class="container">
       <h2 class="subheading">Список дисциплин за 4 года обучения</h2>
-      <div>
-      <h3>Дисциплины с подробным портфолио</h3>
-      <ul>
-		<li><a href="#PIS_6sem">Дисциплина "Прикладные информационные технологии (5-6 Семестр)"</a></li>
-        <li><a href="#Programming">Дисциплина "Программирование (3-7 Семестр)"</a></li>
-        <li><a href="#IEASC">Дисциплина "Информационные средства и технологии инженерных и научных расчетов (7 Семестр)"</a></li>
-	
-      </ul>
-      </div>
 	  
 	  <div>
       <h3>1 семестр</h3>
@@ -60,125 +51,139 @@
 	  <div>
       <h3>2 семестр</h3>
       <ul>
-        <li><a href="#_">Алгоритмы и анализ сложности</a></li>
-		<li><a href="#_">Аналитическая геометрия</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Информационные технологии</a></li>
-		<li><a href="#_">История</a></li>
-		<li><a href="#_">Линейная алгебра и теория матриц </a></li>
-		<li><a href="#_">Математическая логика</a></li>
-		<li><a href="#_">Математический анализ</a></li>
-		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
-		<li><a href="#_">Теория вероятности</a></li>
-		<li><a href="#_">Физика</a></li>
-		<li><a href="#_">Физкультура</a></li>
-		<li><a href="#_">Физкультура элективная</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1nTv6vjHX2WWCOHMisJ1YK1FTIprNFQQ9?usp=drive_link">Алгоритмы и анализ сложности</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1U-zBw_CrUbI57KIqab3vqrIzBT5MiNBq?usp=drive_link">Аналитическая геометрия</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1xFF3vYYBJEYpvyuaDmQHt5XQnUpLaZru?usp=drive_link">Иностранный язык (английский)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1YUqTMjlFhBoQDHVko_oFnl6a6wUBL8QW?usp=drive_link">Информационные технологии</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1tbhdPNRd9zHsPNHFCAyYmzpXoYoIoJxh?usp=drive_link">История</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/Practise-1-st_course">ПРАКТИКА</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1aAfHvi4e40q5i27LtuWJ8yla8g1UohUw?usp=drive_link">Линейная алгебра и теория матриц </a></li>
+		<li><a href="https://drive.google.com/drive/folders/1MFVHY7SfB99KcdjBfK1splhBXn1VxQ5t?usp=drive_link">Математическая логика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/161X9OJNKdKSTClkCHRAQh4z9SZKQ7qqz?usp=drive_link">Математический анализ</a></li>
+		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование ✓</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1rui8ljeSQWyxSH7_yLe8yyUgp4d0vYMh?usp=drive_link">Основы теории вероятности</a></li>
+		<li><a href="https://drive.google.com/drive/folders/12Si4-SuKIcdmlciNjojyfZRRCpGTEEPR?usp=drive_link">Физика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1GmbFHTzlqDddmPtJ2mc14OSzKkl4rRWB?usp=drive_link">Физкультура</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1GmbFHTzlqDddmPtJ2mc14OSzKkl4rRWB?usp=drive_link">Физкультура элективная</a></li>
       </ul>
       </div>	  
 	  
 	  <div>
       <h3>3 семестр</h3>
       <ul>
-        <li><a href="#_">Анализ данных</a></li>
-		<li><a href="#_">Веб-проектирование и веб-языки</a></li>
-		<li><a href="#_">Вычислительная математика</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Интегралы и дифференциальные уравнения</a></li>
-		<li><a href="#_">ПРАКТИКА</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1VWHf7pqgJSrfmMm28XJ2SBFOT5uMo0be?usp=drive_link">Анализ данных</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1bqGl0gDng2v2teKubEhNcjgimP4tQMSd?usp=drive_link">Веб-проектирование и веб-языки</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1loSnbZqFETPjcBXDIhtOcPG7vw6SJFGD?usp=drive_link">Вычислительная математика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1SIiEO6XuzglmOugGIswcIGpJbb9KDDXM?usp=drive_link">Иностранный язык (английский)</a></li>
+		<li><a href="https://docs.google.com/document/d/1jOuMT_r-_zLutRA-jGZO50bcL1VIbIDS/edit?usp=drive_link&ouid=105843954415793389209&rtpof=true&sd=true">Интегралы и дифференциальные уравнения</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/Practise-course-2nd">ПРАКТИКА 🗹</a></li>
 		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
-		<li><a href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Серверные веб-технологии</a></li>
-		<li><a href="#_">Физика</a></li>
-		<li><a href="#_">Физкультура и спорт</a></li>
+		<li><a href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Серверные веб-технологии ✓</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1_3y4Jmx81m6C08uYTIiALcQQNNUrrztc?usp=drive_link">Физика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/16EKG_bd9fNaA73Q6cWsP0RUWFwSERrNf?usp=sharing">Физкультура и спорт</a></li>
       </ul>
       </div>	  
 	  
 	  <div>
       <h3>4 семестр</h3>
       <ul>
-        <li><a href="#_">Базы данных</a></li>
-		<li><a href="#_">Вычислительная техника</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Интегралы и дифференциальные уравнения</a></li>
-		<li><a href="#_">Информационные технологии в решении задач оптимизации</a></li>
-		<li><a href="https://ilya-s-h.github.io/lektor_4sem/">Компьютерный практикум</a></li>
-		<li><a href="#_">Операционные системы</a></li>
-		<li><a href="https://ilya-s-h.github.io/Comp_Algerbra_4sem/">Основы компьютерной алгебры</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1CCFVHRwMF8xgolavoejprtdVSUWJO4gb?usp=drive_link">Базы данных</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1lei0zXZ5R9ovY3y1jWNE4cdQfpoVwkyR?usp=sharing">Вычислительная техника</a></li>
+		<li><a href="https://drive.google.com/drive/folders/10yQde-HLgDEM-IfaCQ7-67jeLpu8Qd3b?usp=drive_link">Иностранный язык (английский)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1fe8jIp-csn3d1-091x7ushFdazrNskep?usp=drive_link">Интегралы и дифференциальные уравнения</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1ZMTVf-PgE8bqnTapFQsPsqvJKB5I9qvx?usp=drive_link">Информационные технологии в решении задач оптимизации</a></li>
+		<li><a href="https://ilya-s-h.github.io/lektor_4sem/">Компьютерный практикум ✓</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1ZzzFQAZTa_U6JCyw_55HzYeSsbTr4Ru0?usp=drive_link">Операционные системы</a></li>
+		<li><a href="https://ilya-s-h.github.io/Comp_Algerbra_4sem/">Основы компьютерной алгебры ✓</a></li>
 		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
 		<li><a href="https://ilya-s-h.github.io/Web_Tech_3_4_sem/">Серверные веб-технологии</a></li>
-		<li><a href="#_">Технологии компьютерного моделирования</a></li>
-		<li><a href="#_">Физкультура (факультативная)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/15RsU4V2A-30pHJ13lBXq-o-HWlxFcnM6?usp=sharing">Технологии компьютерного моделирования</a></li>
+		<li><a href="https://drive.google.com/drive/folders/16EKG_bd9fNaA73Q6cWsP0RUWFwSERrNf?usp=sharing">Физкультура (факультативная)</a></li>
       </ul>
       </div>	  
 	  
 	  <div>
       <h3>5 семестр</h3>
       <ul>
-        <li><a href="#_">IT-менеджмент</a></li>
-		<li><a href="#_">Интегрированные издательские системы</a></li>
-		<li><a href="#_">Информационные технологии в изучении иностранных языков</a></li>
-		<li><a href="#_">Компьютерная графика</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1WJ_e0M9BCkCI-S1v6T2F7CbKO8eyERrj?usp=drive_link">IT-менеджмент</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1Mzr5Rv_vTjfIcqLhOB2-npaD7HIVX3QQ?usp=drive_link">Интегрированные издательские системы</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1TgGLjGebw20BOBzMe3bZRoZFRySXEVFJ?usp=drive_link">Информационные технологии в изучении иностранных языков</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1Qb1uY0unS5mmvBdao6cwmyRz_IUWEFxY?usp=drive_link">Компьютерная графика</a></li>
 		<li><a href="#_">Начертательная геометрия</a></li>
-		<li><a href="#_">Основы бизнес-информатики</a></li>
-		<li><a href="#_">Практикум по письменному переводу профессионально-ориентированных текстов</a></li>
-		<li><a href="https://ilya-s-h.github.io/PIS.html">Прикладные информационные системы</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1DjF-lCWx3kl08sZsBsEClwBRBKyHqiYb?usp=drive_link">Основы бизнес-информатики</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1KgoR5n0Zlcp1rfW_Xh6hrYLQT_QVbkMy?usp=drive_link">Практикум по письменному переводу профессионально-ориентированных текстов</a></li>
+		<li><a href="https://ilya-s-h.github.io/PIS.html">Прикладные информационные системы 🗹</a></li>
 		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
-		<li><a href="#_">Сети и телекоммуникации</a></li>
-		<li><a href="#_">Техника и технологии представление и публикации информации</a></li>
-		<li><a href="#_">Управление программными проектами + курсовая работа</a></li>
-		<li><a href="#_">Физическая культура и спорт</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1dmHR5GQr5CvMe8yXLikGtPRoq6C_MVfj?usp=sharing">Сети и телекоммуникации</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1-dotNQGGz-oO71tQTI6SQI_pcoZBzohu?usp=drive_link">Техника и технологии представление и публикации информации</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1YhvIZ4fnnZIx6X895LmRRh_HtaQEF0rh?usp=drive_link">Управление программными проектами + курсовая работа</a></li>
+		<li><a href="https://drive.google.com/drive/folders/16EKG_bd9fNaA73Q6cWsP0RUWFwSERrNf?usp=sharing">Физическая культура и спорт</a></li>
       </ul>
       </div>	  
 	  
 	  <div>
       <h3>6 семестр</h3>
       <ul>
-        <li><a href="#_">Визуализация данных и инфографика</a></li>
-		<li><a href="#_">Защита информации</a></li>
-		<li><a href="#_">Инженерная графика</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Информационные технологии и системы бизнес-аналитики</a></li>
-		<li><a href="#_">Основы корпоративного электронного обучения</a></li>
-		<li><a href="#_">Основы электронного управления</a></li>
-		<li><a href="#_">ПРАКТИКА</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1E3VL2g1tFj_TLE31pb61i3DRulyLkpM4?usp=sharing">Визуализация данных и инфографика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1_yPbz2UdDG4RaVZT1BqBa-pm9Q6KTXku?usp=sharing">Защита информации</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1e2AP9v_taC4qRdzmM4DIxdinqq-9kG9G?usp=sharing">Инженерная графика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1Kfnto-__8TIsRy83TOYep78ELqULi9Jw?usp=sharing">Иностранный язык (английский)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/11-HpL-zQJLcJlxNCkZWZZu39onavdlfC?usp=sharing">Информационные технологии и системы бизнес-аналитики</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1eh2J-lUQsLnclMn7kuesO1egJmHZ5rOq?usp=sharing">Основы корпоративного электронного обучения</a></li>
+		<li><a href="https://drive.google.com/drive/folders/16_Giif0OxweDmwwYdhBzKuRj9PHFlXse?usp=sharing">Основы электронного управления</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/practise-course-3nd">ПРАКТИКА</a></li>
 		<li><a href="https://ilya-s-h.github.io/PIS.html">Прикладные Информационные технологии</a></li>
 		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
-		<li><a href="#_">Физическая культура и спорт (элективная дисциплина)</a></li>
-		<li><a href="#_">Электроника</a></li>
-		<li><a href="#_">Электротехника</a></li>
+		<li><a href="https://drive.google.com/drive/folders/16EKG_bd9fNaA73Q6cWsP0RUWFwSERrNf?usp=sharing">Физическая культура и спорт (элективная дисциплина)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1lreXB8FWi06ETB7qKnKdDYB_BcJuP9lP?usp=sharing">Электроника</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1WsQ7QCj_zjglLo6kDgeQ4mUvi-RSWfEB?usp=sharing">Электротехника</a></li>
       </ul>
       </div>	
 
       <div>
       <h3>7 семестр</h3>
       <ul>
-        <li><a href="#_">Инженерия знаний</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="https://ilya-s-h.github.io/IEASC_7SEM.html">Информационные средства и технологии инженерных и научных расчетов</a></li>
-		<li><a href="#_">Лингвистические основы иноязычной коммуникации</a></li>
-		<li><a href="#_">Модуль Учебно-исследовательский. Производственная практика (научно-исследовательская работа)</a></li>
-		<li><a href="#_">Научно-исследовательский проект</a></li>
-		<li><a href="#_">Организация электронной образовательной среды + курсовая работа</a></li>
-		<li><a href="#_">ПРАКТИКА</a></li>
-		<li><a href="#_">Практикум по программированию</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1GMePa_VysVmiLQM1PwkePhXQToMtHvAo?usp=drive_link">Инженерия знаний</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1HPYG5z-HwDm8bqGEbvzdxGucGgwstOzd?usp=drive_link">Иностранный язык (английский)</a></li>
+		<li><a href="https://ilya-s-h.github.io/IEASC_7SEM.html">Информационные средства и технологии инженерных и научных расчетов ✓</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1qwWp3BKUF0RH8IliInm24dtZCKy3q2LG?usp=drive_link">Лингвистические основы иноязычной коммуникации</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/practise-course-4th">Модуль Учебно-исследовательский. Производственная практика (научно-исследовательская работа)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1OMaM0yJY7hZO0cHXVGw2D-QzBcpTE68E?usp=drive_link">Научно-исследовательский проект</a></li>
+		<li><a href="https://drive.google.com/drive/folders/126oInLpjbb3rir9xarSNcqxaHU7QZ3UE?usp=drive_link">Организация электронной образовательной среды + курсовая работа</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1lpi-nHftk2cMuZEjSBjCjrsqgg2Gj_t6?usp=drive_link">Практикум по программированию</a></li>
 		<li><a href="https://ilya-s-h.github.io/Programming.html">Программирование</a></li>
-		<li><a href="#_">Учебно-технологический практикум</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1TGUjnY0hY-pvQVerKXfYqa7aHlVSHEAv?usp=drive_link">Учебно-технологический практикум</a></li>
       </ul>
       </div>
 	  
 	  <div>
       <h3>8 семестр</h3>
       <ul>
-        <li><a href="#_">IT-рекрутмент</a></li>
-		<li><a href="#_">Геоинформационные системы</a></li>
-		<li><a href="#_">Иностранный язык (английский)</a></li>
-		<li><a href="#_">Информационные технологии оценки персонала</a></li>
-		<li><a href="#_">Лингвистические основы иноязычной коммуникации</a></li>
-		<li><a href="#_">Мировые информационные ресурсы и цифровые библиотеки</a></li>
-		<li><a href="#_">Научно-исследовательский проект</a></li>
-		<li><a href="#_">ПРАКТИКА</a></li>
-		<li><a href="#_">Социальные и профессиональные вопросы информатики и информационных технологий</a></li>
-		<li><a href="#_">Теория информационных процессов и систем</a></li>
-		<li><a href="#_">Учебно-технологический практикум</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1Rhnse5QAM59_TVK-LBPbZVGw_baHBmdD?usp=drive_link">IT-рекрутмент</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1o23lba7oDPPXwOe8Ihiqgbv2CvnCjSNU?usp=drive_link">Геоинформационные системы</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1HPYG5z-HwDm8bqGEbvzdxGucGgwstOzd?usp=drive_link">Иностранный язык (английский)</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1zBa0loId_m8sFGnrXllnILHY6X6cHkpd?usp=drive_link">Информационные технологии оценки персонала</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1rpPtZSTnFFjcv1hlOYYGKUP7aWw7GT82?usp=drive_link">Лингвистические основы иноязычной коммуникации</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1I0sbjFj9IxxQap68omT-T9AYVuGl2m2M?usp=drive_link">Мировые информационные ресурсы и цифровые библиотеки</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1OMaM0yJY7hZO0cHXVGw2D-QzBcpTE68E?usp=drive_link">Научно-исследовательский проект</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/practise-course-4th">ПРАКТИКА</a></li>
+		<li><a href="https://git.herzen.spb.ru/190468/diploma-practise-course-4th">Производственная практика</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1kZLErqoZ_Zu_W8GkM14aUkZeGqb2E2Q0?usp=drive_link">Социальные и профессиональные вопросы информатики и информационных технологий</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1BzAaEqmCDYs8i6XbgWMQ1jAQAfMqv75J?usp=drive_link">Теория информационных процессов и систем</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1bEbnFtHwKVYFHLwRGk7uoXZQ5LZTMBj_?usp=drive_link">Учебно-технологический практикум</a></li>
+      </ul>
+      </div>
+
+	  <div>
+      <h3>Личные достижения</h3>
+      <ul>
+	    <li><a href="https://elibrary.ru/author_items.asp?authorid=1200583">Профиль автора на elibrary.ru</a></li>
+        <li><a href="https://elibrary.ru/item.asp?id=48087109">Глава в монографии РГПУ им.Герцена</a></li>
+		<li><a href="https://elibrary.ru/item.asp?id=48087125">Глава в книге (РИНЦ) РГПУ им.Герцена</a></li>
+		<li><a href="https://elibrary.ru/item.asp?id=45628887">Статья в РИНЦ журнале "Современное образование: традиции и инновации"</a></li>
+		<li><a href="https://drive.google.com/file/d/1DnlO-95JAKGCf7jIMadkWsaG5DAQMqPY/view?usp=sharing">Участие в конференции ЦЭПО-2022 с докладом</a></li>
+		<li><a href="https://drive.google.com/file/d/1mybL6zI3tr1M9Orr8bl7nqLmSr9Rio-6/view?usp=sharing">Диплом победителя внутривузовской олимпиады бакалавров</a></li>
+		<li><a href="https://drive.google.com/drive/folders/1zZXRW0HrVcZxGpLEyK0GK9qUN7YRe0Yd?usp=drive_link">Обстоятельное исследование (ВКР) по теме "Прогнозирование потенциальных показателей загружаемых видеороликов на основе обработки больших данных"</a></li>
       </ul>
       </div>
 
